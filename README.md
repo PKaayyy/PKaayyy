@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pranav Kumbhar (@PKaayyy0
+- 👋 Hi, I’m Pranav Kumbhar (@PKaayyy)
 - 👀 I’m interested in Big Data & Like to Analyse Various kinds of DATA.
 - 🌱 I’m currently learned Computer Science and did Bachelor's in it. 
 - 💞️ I’m looking to collaborate on various Projects which consists of analysis on Data.
